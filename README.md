@@ -28,7 +28,7 @@ tea 3$
 
 </details>
 </details>
-</br>
+<br>
 
 _______
 *More information about our food : 
@@ -40,7 +40,7 @@ _______
 
 _______
 Enjoy your meal,We use the finest types of fresh meat to get the best taste.
-</br>
+<br>
  [Don't hesitate to order click here ](https://web.facebook.com/rawanabuzer)
 
 
@@ -49,4 +49,3 @@ _______
 
 [Link to my facebook ](https://web.facebook.com/rawanabuzer) ***
 [Link to my github ](https://github.com/rawanabuzir) 
-_______
