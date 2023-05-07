@@ -1,5 +1,6 @@
 # my-restaurant 'Rawan's Restaurant '
 ![the ,describe for the image](https://img.traveltriangle.com/blog/wp-content/uploads/2019/04/cover-for-Seafood-Restaurants-In-Mauritius.jpg)
+
 _______
 <details>
 <summary>What do we offer?</summary>
@@ -18,20 +19,20 @@ meat    15$
 Apple juice 5$
 <br>
 Orange juice 5$
-<br><br>
-Hot drankis
 <br>
-<ul>
-<li> coffee 3$</li>
-<li> tea 3$</li>
+coffee 3$
+<br>
+tea 3$
+<br>
 
-<ul>
+
 </details>
 </details>
-
+</br>
 
 _______
-ℹ️ More information about our food : 
+*More information about our food : 
+
 | name | size | caloris |
 | :---- | :----: | ----: |
 | burger 🍔 | small- large | 400 - 600 |
@@ -39,7 +40,7 @@ _______
 
 _______
 Enjoy your meal,We use the finest types of fresh meat to get the best taste.
-<br>
+</br>
  [Don't hesitate to order click here ](https://web.facebook.com/rawanabuzer)
 
 
