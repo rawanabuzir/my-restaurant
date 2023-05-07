@@ -19,20 +19,20 @@ meat    15$
 Apple juice 5$
 <br>
 Orange juice 5$
-<br><br>
-Hot drankis
 <br>
-<ul>
-<li> coffee 3$</li>
-<li> tea 3$</li>
+coffee 3$
+<br>
+tea 3$
+<br>
 
-</ul>
+
 </details>
 </details>
 </br>
 
 _______
 *More information about our food : 
+
 | name | size | caloris |
 | :---- | :----: | ----: |
 | burger 🍔 | small- large | 400 - 600 |
