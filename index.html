@@ -1,78 +1,127 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style.css">
-    <title>my-restaurant </title>
+    <title>Rawan Restaurant</title>
+
+    <style>
+
+    </style>
 </head>
 
 <body>
     <header>
-        <h1>&#127828;Rawan's Restaurant&#127828;</h1>
-        <ul>
+        <div class="logo">
+            <img src="./img3.png" alt="Rawan Restaurant">
+        </div>
+        <ul class="menu">
             <li><a href="./index.html">Home</a></li>
             <li><a href="./about.html">About us</a></li>
             <li><a href="./recipe.html">Our recipe</a></li>
         </ul>
-        <img src="https://img.traveltriangle.com/blog/wp-content/uploads/2019/04/cover-for-Seafood-Restaurants-In-Mauritius.jpg"
-            alt="the ,describe for the image">
-        <hr>
+        <div class="order-now">
+            <p>Rawan's Restaurant</p>
+            <p><a href="#">Signin Or Signup</a></p>
+        </div>
     </header>
     <main>
-        <div>
-            <p style="font-size: 20;">What do we offer?</p>
-            <p>
-            <ul>Food
-                <li>burger 7$ </li>
-                <li>meat 15$ </li>
-            </ul>
-            <ul>Drankis
-                <li>Apple juice 5$ </li>
-                <li>Orange juice 5$</li>
-                <li>coffee 3$</li>
-                <li>tea 3$</li>
-            </ul>
-            </p>
+        <div class="text-container">
+            <h1>Welcome to Our online Restaurant</h1>
+            <p>We offer the best food in town</p>
+            <button>Order Now</button>
         </div>
-        <hr>
-        <p style="font-size: 20;">*More information about our food :</p>
-        <table border="1">
+        <div class="slider-container">
+            <img class="slider-image" src="./img7.jpg">
+            <img class="slider-image" src="./img7.jpg">
+
+        </div>
+        <br>
+    </main>
+
+    <section class="menu1">
+        <h2>Our Menu</h2>
+        <p>Here are some of our most popular dishes:</p>
+        <ul>
+            <li>
+                <h3>Chicken Alfredo</h3>
+                <p>A classic Italian dish with fettuccine, chicken, and creamy Alfredo sauce.</p>
+            </li>
+            <li>
+                <h3>Steak Fajitas</h3>
+                <p>A sizzling skillet of tender steak strips, sautéed onions and peppers, and warm tortillas.</p>
+            </li>
+            <li>
+                <h3>Shrimp Scampi</h3>
+                <p>Juicy shrimp in a garlicky white wine sauce with linguine pasta.</p>
+            </li>
+        </ul>
+    </section>
+
+    <section class="table">
+        <h2>Table</h2>
+        <table>
             <thead>
-
-
-                <th>name</th>
-                <th>size</th>
-                <th>caloris</th>
+                <tr>
+                    <th>Item</th>
+                    <th>Description</th>
+                    <th>Price</th>
+                </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td>burger &#127828;</td>
-                    <td>small- large</td>
-                    <td>400 - 600</td>
+                    <td>Chicken Alfredo</td>
+                    <td>A classic Italian dish with fettuccine, chicken, and creamy Alfredo sauce.</td>
+                    <td>$15.99</td>
                 </tr>
                 <tr>
-                    <td>meat &#127830;</td>
-                    <td>small- large</td>
-                    <td>250 - 400</td>
+                    <td>Steak Fajitas</td>
+                    <td>A sizzling skillet of tender steak strips, sautéed onions and peppers, and warm tortillas.</td>
+                    <td>$19.99</td>
+                </tr>
+                <tr>
+                    <td>Shrimp Scampi</td>
+                    <td>Juicy shrimp in a garlicky white wine sauce with linguine pasta.</td>
+                    <td>$17.99</td>
                 </tr>
             </tbody>
-
-
         </table>
-        <p style="font-size: 20;">Enjoy your meal,We use the finest types of fresh meat to get the best taste. <br>
-            <a href="">Don't hesitate to order click here</a>
-        </p>
-        <br> <br>
-    </main>
+    </section>
     <footer>
-        <hr>
-        <hr>
-        <center>
-            <p style="font-size: 20;">Copyrights&copy;UI/UX Designer</p>
-        </center>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h4>About Us</h4>
+                    <p>We are a family-owned restaurant committed to serving the best food in town. Our recipes are made
+                        with fresh, locally-sourced ingredients, and our dishes are prepared with care and attention to
+                        detail.</p>
+                </div>
+                <div class="col-md-4">
+                    <h4>Contact Us</h4>
+                    <p>Amman/Jordan<br> Anytown, Main Street<br> Phone: (+962) 781560095<br> Email:
+                        rawan_abuzir@outlook.com</p>
+                </div>
+                <div class="col-md-4">
+                    <h4>Follow Us</h4>
+                    <ul class="social-icons">
+                        <li><a href="https://github.com/rawanabuzir"><i class="github"></i></a></li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <p>&copy; 2023 Rawan Restaurant. All Rights Reserved.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </footer>
 </body>
 
