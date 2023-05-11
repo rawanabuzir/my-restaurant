@@ -224,6 +224,7 @@ ul.social-icons {
     padding: 0;
     margin: 0;
     list-style: none;
+    color: #E91E63;
 }
 
 ul.social-icons li {
@@ -259,11 +260,6 @@ ul.social-icons li a:hover {
     text-align: center;
 }
 
-@media (max-width: 767px) {
-    .col-md-4 {
-        flex: 0 0
-    }
-}
 
 .container1 {
     max-width: 800px;
